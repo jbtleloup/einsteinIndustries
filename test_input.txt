@@ -24,6 +24,4 @@ send_notifications = yes
 
 notvalid : test
 
-je test = true
-
-nega = -213
+negative = -213
